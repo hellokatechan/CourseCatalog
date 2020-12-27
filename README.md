@@ -1,4 +1,9 @@
 ## Project Overview 
-A webscraping project where I was asked to scrape all the courses from [Northeastern Course Catalog](http://catalog.northeastern.edu/). The goal of this project that is so that program managers query the dataframe and see which courses are required courses, electives courses, required elective courses, and others. 
+A webscraping project where I extracted information from [Northeastern Course Catalog](http://catalog.northeastern.edu/). We are particular intereted in extracting all the Master's programs from the College of Professional Science. 
 
-## Roadmap to Webscraping 
+## Outcomes
+The dataframe will have the following columns:
+1) CRN (a number associate with the course) 
+2) Name of the course 
+3) Program namge 
+4) H2/H3 tags
